@@ -1,3 +1,3 @@
 const Omg = require('./index.js');
 
-Omg.grabComic('The_Sandman');
+Omg.grabComic('Avatar_The_Last_Airbender/003.01/3');
