@@ -1,3 +1,3 @@
 const Omg = require('./index.js');
 
-Omg.grabComic('The_Sandman');
+Omg.grabComic('https://github.com/MinusGix/OmgBeauPeepComComicDownloader.git');
